@@ -1,6 +1,8 @@
 # Bacud_Pimentel_CODE_MCO2
 **LBYARCH MCO2 Project**
 
+GITHUB LINK: https://github.com/RequiemToAHeart/Bacud_Pimentel_CODE_MCO2.git
+
 **=SPECS:=**
 
 ![LBY specs](https://github.com/user-attachments/assets/8bf41155-644b-4f48-89d6-c5618e86ef75)

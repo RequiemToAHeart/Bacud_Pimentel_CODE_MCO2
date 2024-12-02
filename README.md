@@ -7,8 +7,8 @@
 
 **=COMMAND PROMPT COMPILATION & EXECUTION:=**
 ==========================================================
-          For  N = {2^20, 2^24, and 2^28}: inputs
-           vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+*For  N = {2^20, 2^24, and 2^28}: inputs*
+           
 nasm -f win64 MCO2_test_asm.asm
 
 gcc -c MCO2_test_C.c -o MCO2_test_C.obj -m64
@@ -17,8 +17,8 @@ gcc MCO2_test_C.obj MCO2_test_asm.obj -o MCO2_test_C.exe -m64
 
 MCO2_test_C.exe
 ==========================================================
-                     For Self-input
-            vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+*For Self-input*
+        
 nasm -f win64 MCO2_asm.asm
 
 gcc -c MCO2_C.c -o MCO2_C.obj -m64

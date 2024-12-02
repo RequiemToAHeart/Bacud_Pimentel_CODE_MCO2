@@ -45,5 +45,12 @@ When comparing the performance of a C kernel and x86-64 assembly for handling la
 ![LBY2](https://github.com/user-attachments/assets/9517e6da-662c-47d7-9b56-f47b8bc1d8d3)
 ![LBY3](https://github.com/user-attachments/assets/82367b07-3b29-4628-a4a8-a0b87ba38fec)
 
+**Presentation Video**
+
+Manual Input Video
+https://drive.google.com/file/d/1rpEMfunw4T72sbUklfe7Xjz-581nXWs0/view?usp=sharing
+
+Vector N input
+https://drive.google.com/file/d/1KBWN4VPTk4RSnAAjW83d-70MgNCpm-_j/view?usp=sharing
 
 

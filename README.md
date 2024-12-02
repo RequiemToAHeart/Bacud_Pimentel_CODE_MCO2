@@ -6,7 +6,9 @@
 ![LBY specs](https://github.com/user-attachments/assets/8bf41155-644b-4f48-89d6-c5618e86ef75)
 
 **=COMMAND PROMPT COMPILATION & EXECUTION:=**
-            **For  N = {2^20, 2^24, and 2^28}: inputs**
+==========================================================
+          For  N = {2^20, 2^24, and 2^28}: inputs
+           vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 nasm -f win64 MCO2_test_asm.asm
 
 gcc -c MCO2_test_C.c -o MCO2_test_C.obj -m64
@@ -14,8 +16,9 @@ gcc -c MCO2_test_C.c -o MCO2_test_C.obj -m64
 gcc MCO2_test_C.obj MCO2_test_asm.obj -o MCO2_test_C.exe -m64
 
 MCO2_test_C.exe
-                     **For Self-input**
-                     
+==========================================================
+                     For Self-input
+            vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 nasm -f win64 MCO2_asm.asm
 
 gcc -c MCO2_C.c -o MCO2_C.obj -m64
@@ -23,7 +26,7 @@ gcc -c MCO2_C.c -o MCO2_C.obj -m64
 gcc MCO2_C.obj MCO2_asm.obj -o MCO2_C.exe -m64
 
 MCO2_C.exe
-
+==========================================================
 
 **=COMPATIVE ANALYSIS:=**
 
